@@ -41,8 +41,7 @@ Understand the factors which improves the demand for bikesharing.
 
 
 
-## Contact
-Created by [@githubusername] - feel free to contact me!
+
 
 
 <!-- Optional -->
